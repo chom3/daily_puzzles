@@ -1,0 +1,7 @@
+.:
+total 24
+-rw-r--r-- 1 ubuntu ubuntu 1323 Jun 11 16:24 palindrome.cpp
+-rw-r--r-- 1 ubuntu ubuntu 1107 Jun 11 18:13 wordcannon.cpp
+-rw-r--r-- 1 ubuntu ubuntu  276 Jun 11 18:43 reverseInt.cpp
+-rwxr-xr-x 1 ubuntu ubuntu 9238 Jun 11 18:43 a.out*
+-rw-r--r-- 1 ubuntu ubuntu    0 Jun 11 18:46 output.txt
